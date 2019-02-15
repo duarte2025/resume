@@ -11,8 +11,11 @@ Developer and Control of Engineer Student. Very interested in development of new
 
 ### Education
 * Federal University of Mato Grosso - Control and Automation Engineering (2015-2019): Graduation in progress.
+
 ### Experience
-* Iris Group - Research intern (2017-): Participated in a research project in smart cities, focusing on identifying of vehicles that travel regularly in exclusive bus lines and detection occupancy in parking lots. The proposed solutions is based on convolutional neural networks. A study on the possibility of embarking this detection system on a raspberry pi is being done.
+* Iris Group(UFMT) - Research intern (2017-): Participated in a research project in smart cities, focusing on identifying of vehicles that travel regularly in exclusive bus lines and detection occupancy in parking lots. The proposed solutions is based on convolutional neural networks. A study on the possibility of embarking this detection system on a raspberry pi is being done.
+* UFMT - Algorithms Tutoring(2015/2-2016/1): I helped the students in the discipline of algorithms and applied evaluations proposed by the supervisor.
+
 
 ### Research
 * Loading...
